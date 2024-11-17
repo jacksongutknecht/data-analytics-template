@@ -15,11 +15,6 @@ Simple description
 
 Logo or screenshot
 Commit image to repository and link to it.  
-```
-![alt text for image](https://github.com/mikecolbert/test/blob/main/test.png) 
-```
-
-![Salary prediction home page](https://github.com/mikecolbert/README-template/blob/main/repo_assets/screenshot_index.png)
 
 ---
 
@@ -54,28 +49,8 @@ Short paragraph or two about the new skill(s) you learned in this project.
 ---
 
 ## TO-DO
-- [x] ~~Catch all selected activities in /add and put them into the list~~
-- [x] ~~About page~~
-- [ ] Styling using [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/) framework  
-- [ ] API
-- [ ] [feature] Add an awesome feature ([#4][i4])
-- [ ] [bug] Finally fixed this stupid bug ([#5][i5])
+add to-do list here and update as project progresses
 
-[i4]: https://github.com/mikecolbert/dpb-web-form-template/issues/4
-[i5]: https://github.com/mikecolbert/dpb-web-form-template/issues/5
-
-
-```
-- [x] ~~About page~~
-- [ ] API
-
-- [ ] [feature] Add an awesome feature ([#4][i4])
-- [ ] [bug] Finally fixed this stupid bug ([#5][i5])
-
-[i4]: https://github.com/mikecolbert/dpb-web-form-template/issues/4
-[i5]: https://github.com/mikecolbert/dpb-web-form-template/issues/5
-
-```
 
 ---
 
